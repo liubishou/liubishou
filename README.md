@@ -1,7 +1,8 @@
-＃＃＃＃大家好，我叫刘必寿
-以后大学生活多多关照啦w我还只是一个计算机小菜鸡
-好期待大学生活
+大家好，我是刘必寿
 
+大学生活为我所向向往，希望能多多关照
+
+大学冲冲冲！！！
 
 <!--
 **liubishou/liubishou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
