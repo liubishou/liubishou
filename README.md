@@ -1,8 +1,4 @@
-大家好，我是刘必寿
-
-大学生活为我所向向往，希望能多多关照
-
-大学冲冲冲！！！
+大家
 
 <!--
 **liubishou/liubishou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
